@@ -2,6 +2,7 @@
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', sans-serif;
     font-weight: normal;
+    touch-action: manipulation;
 }
 
 body {
