@@ -37,6 +37,10 @@ body {
     grid-column: span 2;
 }
 
+.del-button {
+    padding:10px;
+}
+
 .output {
     grid-column: 1 / -1;
     background-color: rgba(0, 0, 0, .75);
